@@ -27,3 +27,5 @@ START
    Loop years,principal,interest,balance depend on the loan period entered by the user  
 END  
 # Flow Chart
+ ![image](https://github.com/kaiting0415/271613-STIA1113-A191-A1A2/blob/master/flow%20chart.PNG)  
+# Screenshot of the output  
